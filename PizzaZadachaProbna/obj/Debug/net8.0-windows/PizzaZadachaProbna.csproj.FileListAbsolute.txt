@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\bin\Debug\net8.0-windows\PizzaZadachaProbna.exe
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\bin\Debug\net8.0-windows\PizzaZadachaProbna.deps.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\bin\Debug\net8.0-windows\PizzaZadachaProbna.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\bin\Debug\net8.0-windows\PizzaZadachaProbna.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\bin\Debug\net8.0-windows\PizzaZadachaProbna.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.Form1.resources
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\refint\PizzaZadachaProbna.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\PizzaZadachaProbna.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\PizzaZadachaProbna\PizzaZadachaProbna\obj\Debug\net8.0-windows\ref\PizzaZadachaProbna.dll
